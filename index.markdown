@@ -1,7 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Plumii Blog
 ---
+
+Bienvenido al blog de Plumii. Aquí vamos dejando ideas, aprendizajes y notas de producto mientras seguimos construyendo la plataforma.
